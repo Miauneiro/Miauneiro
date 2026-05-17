@@ -17,6 +17,30 @@ Based in Lisbon, Portugal | Open to remote opportunities globally
 
 ---
 
+## Professional Experience
+
+**Data Engineer - PHAir Earth** (Climate Risk Startup)  
+*October 2025 - Present | Lisbon, Portugal (Remote)*
+
+Built production weather data extraction and monitoring system for climate risk analysis platform.
+
+- **Scale**: 453 active weather stations across Portugal (continental, Madeira, Açores)
+- **Performance**: 96.2% data completeness, 93.5% quality score over 30-day operational period
+- **Resolution**: 5-minute temporal frequency (12× superior to national meteorological network)
+- **Density**: 5.7× the spatial coverage of Portugal's official weather network
+- **Output**: ~3.76M observations, CF-1.8 compliant netCDF4 format
+- **Technology**: Python, Weather Underground API, statistical QC algorithms, automated pipelines
+- **Deliverables**: 6 production scripts, comprehensive technical documentation (Portuguese)
+- **Impact**: Powers climate risk assessments for enterprise clients and government stakeholders
+
+**Key Technical Achievements:**
+- Designed and implemented entire data extraction pipeline from scratch
+- Built statistical quality control system detecting anomalies and sensor failures
+- Achieved production-grade reliability on distributed sensor network
+- Delivered complete system with zero supervision, working remotely with startup founder
+
+---
+
 ## Live Projects
 
 **Energy Demand Forecasting Platform**  
