@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Miauneiro">
-    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Sans&weight=600&size=22&duration=2800&pause=900&color=A9CC4A&center=true&vCenter=true&width=720&lines=Data+Engineer+%40+PHAIR-EARTH;Four+climate+apps+shipped+in+six+weeks;From+raw+observations+to+early+warnings;Physics+first%2C+then+the+model" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Sans&weight=600&size=22&duration=2800&pause=900&color=A9CC4A&center=true&vCenter=true&width=820&lines=Senior+Data+Engineer+%26+Lead+Developer+%40+PHAIR-EARTH;Four+climate+apps%2C+one+data+platform;From+raw+observations+to+early+warnings;Physics+first%2C+then+the+model" alt="Typing intro"/>
   </a>
 </p>
 
@@ -26,8 +26,8 @@
 
 ## Now: the PHAIR-EARTH platform
 
-Since October 2025 I am the Data Engineer at **[PHAIR-EARTH](https://phair-earth.com)** (Physics and AI for a Resilient
-Earth), a climate-risk spin-off of the University of Lisbon (Instituto Dom Luiz). In the last months the work grew from one
+I am **Senior Data Engineer and Lead Developer** at **[PHAIR-EARTH](https://phair-earth.com)** (Physics and AI for a
+Resilient Earth), a climate-risk spin-off of the University of Lisbon (Instituto Dom Luiz). The work grew from one
 station pipeline into a **hub-and-spoke platform**: one data hub with several products on top of it. I designed, built and run
 the hub and the Warning, Downscaling and Calls apps; Risk and Layers are built by colleagues on the same data.
 
@@ -98,22 +98,34 @@ SemVer releases with changelogs, automated tests and scheduled pipelines running
 
 <br>
 
-## The last six months in numbers
+## In numbers
 
 <table>
 <tr>
 <td align="center" width="25%"><h1>4</h1>apps in production<br><sub>Weather, Warning, Downscaling, Calls</sub></td>
-<td align="center" width="25%"><h1>320+</h1>commits<br><sub>since mid-October, private repos</sub></td>
+<td align="center" width="25%"><h1>320+</h1>commits<br><sub>across the private platform repos</sub></td>
 <td align="center" width="25%"><h1>25</h1>releases<br><sub>Windows and macOS installers</sub></td>
 <td align="center" width="25%"><h1>500+</h1>automated tests<br><sub>across the platform</sub></td>
 </tr>
 <tr>
 <td align="center"><h1>17</h1>data connectors<br><sub>stations, models, warnings</sub></td>
-<td align="center"><h1>~68 GB</h1>climate database<br><sub>plus TBs of gridded data</sub></td>
+<td align="center"><h1>~50 TB</h1>of climate data<br><sub>and growing every day</sub></td>
 <td align="center"><h1>453</h1>personal weather stations<br><sub>quality-controlled, 5-minute data</sub></td>
 <td align="center"><h1>4</h1>languages<br><sub>PT, EN, ES, FR</sub></td>
 </tr>
 </table>
+
+<br>
+
+## Climate methodology for public bids
+
+Beyond the software, I write the **technical methodology** behind PHAIR-EARTH's proposals for public climate work:
+how the data is gathered and quality-controlled, which models and scenarios are used, how hazards and impacts are
+computed and what each deliverable contains. Recent proposals include:
+
+- **PRAC Norte** - Regional Climate Action Plan for the North of Portugal
+- **EAAC Madeira** - Climate Change Adaptation Strategy for Madeira
+- **ESA** - European Space Agency
 
 <br>
 
