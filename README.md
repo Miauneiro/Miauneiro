@@ -1,178 +1,182 @@
-# João Manero
-
-Data Scientist | Meteorology Student | Remote Work Specialist
-
-Building production-ready data science applications at the intersection of atmospheric science, oceanography, and software engineering. 4 deployed projects spanning energy forecasting, aviation safety, and climate analysis.
-
-Based in Lisbon, Portugal | Open to remote opportunities globally
-
----
-
-## Key Achievements
-
-- Built LSTM forecasting system achieving < 2.5% MAPE (exceeds industry standard 3-5%)
-- Deployed 4 production applications serving energy, aviation, and climate sectors
-- 5 years proven remote work delivering projects asynchronously across time zones
-- Strong foundation in atmospheric physics, thermodynamics, and scientific computing
-
----
-
-## Professional Experience
-
-**Data Engineer - PHAir Earth** (Climate Risk Startup)  
-*October 2025 - Present | Lisbon, Portugal (Remote)*
-
-Built production weather data extraction and monitoring system for climate risk analysis platform.
-
-- **Scale**: 453 active weather stations across Portugal (continental, Madeira, Açores)
-- **Performance**: 96.2% data completeness, 93.5% quality score over 30-day operational period
-- **Resolution**: 5-minute temporal frequency (12× superior to national meteorological network)
-- **Density**: 5.7× the spatial coverage of Portugal's official weather network
-- **Output**: ~3.76M observations, CF-1.8 compliant netCDF4 format
-- **Technology**: Python, Weather Underground API, statistical QC algorithms, automated pipelines
-- **Deliverables**: 6 production scripts, comprehensive technical documentation (Portuguese)
-- **Impact**: Powers climate risk assessments for enterprise clients and government stakeholders
-
-**Key Technical Achievements:**
-- Designed and implemented entire data extraction pipeline from scratch
-- Built statistical quality control system detecting anomalies and sensor failures
-- Achieved production-grade reliability on distributed sensor network
-- Delivered complete system with zero supervision, working remotely with startup founder
-
----
-
-## Live Projects
-
-**Energy Demand Forecasting Platform**  
-[Application](https://energy-demand-forecasting.streamlit.app) | [Repository](https://github.com/Miauneiro/Energy-Demand-Forecasting)
-
-LSTM-based electricity demand forecasting system for 24-hour predictions with business stakeholder focus.
-- Impact: Energy trading optimization, grid operations, capacity planning
-- Technology: PyTorch, LSTM (4-layer, 1.86M parameters), Streamlit, deep learning
-- Performance: Validation loss 0.001581, expected MAPE < 2.5% (vs industry standard 3-5%)
-- Business Value: Potential ~$219M annual savings for large utility vs average models
-- Features: Multi-horizon forecasting, role-based recommendations, production-ready dashboard
-
-**Convective Risk Analyzer**  
-[Application](https://convective-risk-analyzer.streamlit.app) | [Repository](https://github.com/Miauneiro/Convective-Risk-Analyzer)
-
-An aviation safety assessment platform analyzing atmospheric instability and convective potential.
-- Impact: Flight safety optimization, aviation planning, severe weather preparedness
-- Technology: Python, MetPy, thermodynamic calculations, Skew-T diagrams
-- Performance: Multi-category risk assessment across 5 aircraft types
-- Features: Real-time stability indices, professional meteorological analysis, automated alerts
-
-**Föhn Effect Analysis**  
-[Application](https://fohen-effect-analysis.streamlit.app) | [Repository](https://github.com/Miauneiro/Fohen-Effect-Analysis)
-
-Interactive weather prediction dashboard for analyzing extreme temperature events caused by orographic processes.
-- Impact: Agricultural planning, wildfire risk assessment, aviation safety
-- Technology: Python, MetPy, Streamlit, thermodynamic modeling
-- Features: Real-time parameter adjustment, risk assessment, multi-format export
-
-**Oceanographic Water Mass Analysis**  
-[Application](https://oceanographic-water-mass-analysis-in-python.streamlit.app) | [Repository](https://github.com/Miauneiro/Oceanographic-Water-Mass-Analysis-In-Python)
-
-An advanced platform for analyzing ocean water masses using CTD profile data with global applicability.
-- Impact: Climate research, fisheries management, maritime operations, offshore energy
-- Technology: Python, NumPy, Matplotlib, Cartopy, gsw, netCDF4
-- Performance: Automated detection with global coordinate support
-- Features: Optimum Multiparameter analysis, RGB water mass visualization, multi-stakeholder interface
-
----
-
-## Professional Background
-
-**Domain Expertise**
-- 5+ years in atmospheric and oceanographic data analysis
-- Meteorology degree (graduating 2026, Universidade de Lisboa)
-- Strong foundation in physics, thermodynamics, fluid dynamics, and numerical methods
-
-**Remote Work Experience**
-- 5 years of remote private tutoring with self-managed schedules and asynchronous communication
-- 3 years managing international editorial teams at Disaster Scans across multiple time zones
-- 8 hours daily dedicated to structured professional development and project delivery
-- Proven track record of proactive communication and consistent delivery without supervision
-
-**Technical Capabilities**
-- Machine Learning: PyTorch, TensorFlow, LSTM networks, time series forecasting, model optimization
-- Data Science: Python, Pandas, NumPy, scikit-learn, statistical analysis, feature engineering
-- Scientific Computing: MetPy, gsw, netCDF4, Cartopy, thermodynamic modeling, numerical methods
-- Development: Git, GitHub, Streamlit, Jupyter, VS Code, production deployment pipelines
-- Deployment: Streamlit Cloud, Git LFS, containerization, production-ready architectures
-
----
-
-## Languages and Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/>
+<!-- header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06141B,45:13404F,100:A9CC4A&height=230&section=header&text=Jo%C3%A3o%20Manero&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Data%20engineering%20for%20weather%20and%20climate&descSize=19&descAlignY=58&animation=fadeIn" width="100%" alt="João Manero - Data engineering for weather and climate"/>
 </p>
-
----
-
-## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Miauneiro&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miauneiro&theme=dark" alt="GitHub Streak" />
+  <a href="https://github.com/Miauneiro">
+    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Sans&weight=600&size=22&duration=2800&pause=900&color=A9CC4A&center=true&vCenter=true&width=720&lines=Data+Engineer+%40+PHAIR-EARTH;Four+climate+apps+shipped+in+six+weeks;From+raw+observations+to+early+warnings;Physics+first%2C+then+the+model" alt="Typing intro"/>
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Lisbon%2C%20Portugal-06141B?style=for-the-badge&logo=googlemaps&logoColor=A9CC4A" alt="Lisbon, Portugal"/>
+  <a href="https://www.linkedin.com/in/joão-manero"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:joaofteixeiramanero@gmail.com"><img src="https://img.shields.io/badge/Email-13404F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Meteorology-Universidade%20de%20Lisboa-5FB4C9?style=for-the-badge" alt="Meteorology, Universidade de Lisboa"/>
+</p>
 
-## Active Development
+<br>
 
-Currently expanding portfolio with focus on:
-- Time series forecasting for energy and climate applications
-- Real-time atmospheric data processing pipelines
-- Production ML systems optimized for resource-constrained environments
-- Business intelligence tools for climate risk assessment
+> I build the data backbone of a climate-risk company: the pipelines that pull in weather observations, forecasts,
+> reanalyses and satellite products, the database that holds them, and the apps that turn them into decisions -
+> from a street-level heat map to a warning that arrives before the storm does.
 
-Seeking remote data science opportunities where I can apply deep learning and scientific computing to solve high-impact problems in energy, climate, or environmental sectors.
+<br>
 
-Target: Remote data science position ($80-120K USD) with US/Canadian remote-first companies, EU remote roles, or Australian climate/energy sector positions.
+## Now: the PHAIR-EARTH platform
 
----
+Since October 2025 I am the Data Engineer at **[PHAIR-EARTH](https://phair-earth.com)** (Physics and AI for a Resilient
+Earth), a climate-risk spin-off of the University of Lisbon (Instituto Dom Luiz). In the last months the work grew from one
+station pipeline into a **hub-and-spoke platform**: one data hub with several products on top of it. I designed, built and run
+the hub and the Warning, Downscaling and Calls apps; Risk and Layers are built by colleagues on the same data.
 
-## Why I'm Different
+```mermaid
+flowchart LR
+    S["Stations, models,<br/>reanalyses, satellites"] --> W["PHAIR Weather and Climate<br/>data hub"]
+    W --> WA["PHAIR-Warning<br/>extreme-weather alerts"]
+    W --> DS["PHAIR Downscaling<br/>urban climate, deep learning"]
+    DS --> WA
+    DS --> R["PHAIR-Risk<br/>long-term risk to 2100"]
+    DS --> L["PHAIR Layers<br/>surface and atmosphere layers"]
+    W --> C["PHAIR-Calls<br/>funding and tenders"]
+```
 
-**Science-Engineering Integration**  
-A physics degree provides a deep understanding of atmospheric processes and thermodynamics. I don't just process weather data - I understand why systems behave the way they do, enabling better feature engineering and model design. This allows me to translate complex scientific problems into actionable data products that non-technical stakeholders can use.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Production-First Development**  
-All projects are deployed with real stakeholder needs in mind:
-- Energy traders need sub-3% error for profitable trading → delivered 2.5% MAPE
-- Aviation planners need multiple aircraft risk profiles → built a categorical assessment system
-- Climate researchers need reproducible analysis → provided documented scientific methods
-- Grid operators need role-based recommendations → designed business context decision support
+### PHAIR Weather and Climate
+**The single source of data for every other app.**
+Station networks (GHCN, ECA&D, Meteostat, IPMA hourly, INMET...), forecasts (GFS, ECMWF IFS and AIFS, ICON, AROME at
+~2.5 km, GEFS and ECMWF ensembles), ERA5 and CERRA reanalyses, MODIS land surface temperature, Sentinel-2 NDVI, CMIP6
+scenarios and forecast verification. Maps, series, netCDF cut-outs and an API for the other apps.
 
-**8+ Years Remote Excellence**  
-- 5 years private tutoring: Self-managed schedules, proactive communication with students globally
-- 3 years editorial management: Async coordination across 5+ international time zones
-- Current: 8 hours daily dedicated to structured skill development and project delivery
-- Demonstrated ability to deliver consistently without direct supervision
+`PostgreSQL` `FastAPI` `xarray` `netCDF/HDF5` `Leaflet` `Plotly`
 
-**Results Over Credentials**  
-Built 4 production applications while completing a degree. Proven ability to ship high-quality data products, not just study theory. Every project serves real users and solves actual business problems.
+</td>
+<td width="50%" valign="top">
 
----
+### PHAIR-Warning
+**Extreme-weather alerts, made to measure for each place.**
+Compares several forecast models with each location's 30-year climate and with the official thresholds, by
+municipality, up to 5 days ahead: heat, cold, rain and wind. Personal places with sector thresholds, plans,
+four languages, a desktop app and a phone web app.
 
-## Contact
+`multi-model ensembles` `climatology` `PWA` `Tauri`
 
-LinkedIn: [joão-manero](https://www.linkedin.com/in/joão-manero)  
-GitHub: [Miauneiro](https://github.com/Miauneiro)  
-Email: joaofteixeiramanero@gmail.com  
-Open to: Remote data science roles, contract/consulting, climate tech opportunities
+</td>
+</tr>
+<tr>
+<td valign="top">
 
----
+### PHAIR Downscaling
+**The climate of the city, street by street.**
+Turned our CTO's research deep-learning downscaler (UCDL) into a product: runs, results, catalogue and reports in one app,
+GPU-backed, with cached views that make restarts invisible. The base for selling high-resolution data per km² and
+for feeding the other products.
 
-Available for remote opportunities starting Q2 2026 (or immediate contract/consulting work).
+`PyTorch` `deep learning` `SLURM` `SQLite`
+
+</td>
+<td valign="top">
+
+### PHAIR-Calls
+**Funding calls and tenders, already scored.**
+Collects public funding and procurement notices (PT/ES), reads the documents and scores each one 0-100 against the
+company profile with an LLM, then puts the decision in cards: stack, funnel and sources.
+
+`LLM evaluation` `scraping` `PDF parsing` `scoring`
+
+</td>
+</tr>
+</table>
+
+**Shared across all apps:** one PHAIR account with multi-factor sign-in and per-app access (with end dates for
+contractors), the same design system in light and dark themes, desktop installers for Windows and macOS built by CI,
+SemVer releases with changelogs, automated tests and scheduled pipelines running 24/7 on company hardware.
+
+<br>
+
+## The last six months in numbers
+
+<table>
+<tr>
+<td align="center" width="25%"><h1>4</h1>apps in production<br><sub>Weather, Warning, Downscaling, Calls</sub></td>
+<td align="center" width="25%"><h1>320+</h1>commits<br><sub>since mid-October, private repos</sub></td>
+<td align="center" width="25%"><h1>25</h1>releases<br><sub>Windows and macOS installers</sub></td>
+<td align="center" width="25%"><h1>500+</h1>automated tests<br><sub>across the platform</sub></td>
+</tr>
+<tr>
+<td align="center"><h1>17</h1>data connectors<br><sub>stations, models, warnings</sub></td>
+<td align="center"><h1>~68 GB</h1>climate database<br><sub>plus TBs of gridded data</sub></td>
+<td align="center"><h1>453</h1>personal weather stations<br><sub>quality-controlled, 5-minute data</sub></td>
+<td align="center"><h1>4</h1>languages<br><sub>PT, EN, ES, FR</sub></td>
+</tr>
+</table>
+
+<br>
+
+## Where it started: crowdsourced stations
+
+The first pipeline at PHAIR-EARTH, still running: **453 personal weather stations** across mainland Portugal,
+Madeira and the Azores, at 5-minute resolution - 12x the time resolution and 5.7x the spatial density of the official
+network. Statistical and altitude-aware quality control, validation against the national service, urban heat island
+analysis and CF-1.8 netCDF4 output (~3.76 M observations, 96.2% completeness over the first 30 days).
+
+<br>
+
+## Open-source projects
+
+| Project | What it does | |
+|:--|:--|:--:|
+| **[Geophysical Inversion](https://github.com/Miauneiro/geophysical-inversion)** | Gravity-anomaly inversion with a hybrid physics + ML model: 100-1000x faster forward modelling, Monte Carlo inversion with uncertainty | [![Live](https://img.shields.io/badge/live-demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://geophysical-inversion.streamlit.app) |
+| **[Energy Demand Forecasting](https://github.com/Miauneiro/Energy-Demand-Forecasting)** | 24-hour electricity demand forecasts with a 4-layer LSTM (1.86 M parameters), role-based recommendations | [![Live](https://img.shields.io/badge/live-demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://energy-demand-forecasting.streamlit.app) |
+| **[Convective Risk Analyzer](https://github.com/Miauneiro/Convective-Risk-Analyzer)** | Atmospheric instability for aviation: CAPE/CIN, Skew-T, risk for 5 aircraft types | [![Live](https://img.shields.io/badge/live-demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://convective-risk-analyzer.streamlit.app) |
+| **[Föhn Effect Analysis](https://github.com/Miauneiro/Fohen-Effect-Analysis)** | Extreme temperature events from orographic processes, with interactive thermodynamics | [![Live](https://img.shields.io/badge/live-demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://fohen-effect-analysis.streamlit.app) |
+| **[Ocean Water Masses](https://github.com/Miauneiro/Oceanographic-Water-Mass-Analysis-in-Python)** | CTD profiles, T-S diagrams and Optimum Multiparameter water-mass analysis | [![Live](https://img.shields.io/badge/live-demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://oceanographic-water-mass-analysis-in-python.streamlit.app) |
+
+<br>
+
+## Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,postgres,sqlite,fastapi&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn, PostgreSQL, SQLite, FastAPI"/><br>
+  <img src="https://skillicons.dev/icons?i=rust,tauri,js,html,css,powershell,r,latex&theme=dark" alt="Rust, Tauri, JavaScript, HTML, CSS, PowerShell, R, LaTeX"/><br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,windows,vscode&theme=dark" alt="Git, GitHub, GitHub Actions, Linux, Windows, VS Code"/>
+</p>
+
+<p align="center"><sub>Scientific stack: xarray, netCDF4, MetPy, gsw, Cartopy, pandas, NumPy, Plotly, Leaflet - and HPC with SLURM.</sub></p>
+
+<br>
+
+## Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Miauneiro&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=A9CC4A&icon_color=5FB4C9&ring_color=A9CC4A" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miauneiro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&title_color=A9CC4A" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Miauneiro&theme=tokyonight&hide_border=true&border_radius=12&ring=A9CC4A&fire=E0503F&currStreakLabel=A9CC4A" alt="GitHub streak"/>
+</p>
+
+<br>
+
+## How I work
+
+- **Physics first.** A meteorology background means I know why the atmosphere behaves the way it does, which makes
+  for better quality control, better features and models that fail less in the places that matter.
+- **Ship it, then measure it.** Every app has versions, release notes, tests and installers; every pipeline has
+  monitoring. Products are used by real people, not left in notebooks.
+- **Autonomous and remote-ready.** Years of remote work (tutoring, and managing an international editorial team across
+  time zones) and now full ownership of a company's data platform, end to end.
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joão-manero"><b>LinkedIn</b></a> ·
+  <a href="mailto:joaofteixeiramanero@gmail.com"><b>joaofteixeiramanero@gmail.com</b></a> ·
+  <sub>open to collaborations in climate data, forecasting and climate risk</sub>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A9CC4A,55:13404F,100:06141B&height=120&section=footer" width="100%" alt=""/>
